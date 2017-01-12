@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AngularJS",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CSS3",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Goto-CSS-Declaration",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JSONLint",
+		"LiveReload",
+		"Package Control",
+		"Sass",
+		"SFTP",
+		"SublimeLinter",
+		"WebFont"
+	]
+}

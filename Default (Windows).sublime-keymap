@@ -1,0 +1,13 @@
+[
+	// Скрывает панель навигации по файлам
+	{"keys": ["ctrl+shift+s"], "command": "toggle_side_bar" },
+	// Скрывает миникарту
+	{"keys": ["alt+ctrl+shift+s"], "command": "toggle_minimap" },
+	// Сохранение всех файлов
+	{ "keys": ["ctrl+s"], "command": "save_all" },
+	// Форматирует отступы в выделенном коде
+	{"keys": ["alt+shift+f"], "command": "reindent" },
+
+
+	
+]
