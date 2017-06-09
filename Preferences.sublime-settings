@@ -1,0 +1,15 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"AngularJS",
+		"CSS",
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"word_wrap": true
+}
